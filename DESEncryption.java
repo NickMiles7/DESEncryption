@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
-
-
+//hello
 public class DESEncryption{
 	
 	public static String newline = System.getProperty("line.separator");
